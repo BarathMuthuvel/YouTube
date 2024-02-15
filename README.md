@@ -11,7 +11,7 @@ destroy the composent (useEffect return method)
 -useEffect()
 start timer ⇒make api call after 200 ms
 
-setTimeout(280) - make an APi call after 200 ms
+setTimeout(200) - make an APi call after 200 ms
 
 # Cache:
 
